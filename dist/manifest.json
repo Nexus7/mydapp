@@ -1,8 +1,8 @@
 {
-	"id": "skeleton",
-	"name": "Skeleton",
-	"description": "A skeleton dapp",
+	"id": "rickdapp",
+	"name": "Rick's Dapp",
+	"description": "Rick's Demo Dapp",
 	"version": "0.1",
-	"author": "Parity Technologies Ltd",
+	"author": "Rick Behl",
 	"iconUrl": "title.png"
 }
